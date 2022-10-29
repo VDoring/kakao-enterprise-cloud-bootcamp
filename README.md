@@ -1,5 +1,5 @@
 # kakao-enterprise-cloud-bootcamp
-10.27~10.28, 2일동안 진행한 kakao i cloud 부트캠프 기록
+### 10.27~10.28, 2일동안 진행한 kakao i cloud 부트캠프 기록
 ![KakaoTalk_20221028_234139496](https://user-images.githubusercontent.com/50266731/198839456-aa8bd9ba-7bbc-439d-818d-0e10548d5c35.jpg)
 ![KakaoTalk_20221028_234205612_02](https://user-images.githubusercontent.com/50266731/198839618-1796f40a-b1c9-47aa-8d8f-a0ab4f06b6be.jpg)
 ![KakaoTalk_20221028_234139496_12](https://user-images.githubusercontent.com/50266731/198839503-09250efe-3533-43ea-89ce-e11024c2de85.jpg)
